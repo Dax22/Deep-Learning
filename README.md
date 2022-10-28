@@ -1,4 +1,4 @@
-# Deep-Learning
+# Deep-Learning Class Assignments 
 Task 1:
 Problem Statement:
 • Load the CIFAR dataset and select a subset of three classes. 
